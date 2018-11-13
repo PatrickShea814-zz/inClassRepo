@@ -1,0 +1,43 @@
+.container {
+
+}
+
+#fixed {
+    position: fixed;
+    background-color: #eee;
+    height: 200px;
+    width: 25%;
+}
+
+#relative {
+    background-color: #eee;
+    position: relative;
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+#absolute {
+    background-color: #999;
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    top: 200px;
+    left: 600px;
+}
+
+#header {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.para {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+p {
+    line-height: 1.5;
+}
+
+
